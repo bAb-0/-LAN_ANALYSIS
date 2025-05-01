@@ -18,7 +18,7 @@ A análise foi feita com base em dados simulados, utilizando o Power BI para con
 - **Ranking de Vendedores por Quantidade e Faturamento**
 
 ## 🖼️ Dashboard Final
-![Dashboard ÉLAN](dashboard-elan.png)
+![Dashboard ÉLAN](imagensdashboard-elan.png)
 
 
 ## ✅ Aprendizados
